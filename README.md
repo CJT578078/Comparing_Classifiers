@@ -1,1 +1,1 @@
-# Comparing_Classifiers
+Observations: All 4 models preformed fairly well on both the training and test set. Logistic regression was the only one of the 4 classifiers to have a higher accuracy and f1 score on the test set as opposed to the training set. It may be the case that all 3 other models have some degree of overfitting. This was the case even after scaling the numerical data and encoding the categorical data. 
